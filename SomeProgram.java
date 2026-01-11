@@ -7,4 +7,8 @@ public class SomeProgram {
     public void manageRockets() {
     // TODO implement
 }
+
+    public static void startTheRocket(){
+      System.out.println("3, 2, 1 Start");
+    }
 }
