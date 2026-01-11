@@ -3,6 +3,10 @@ public class SomeProgram {
       System.out.println("We are learning to use Git."); 
       System.out.println("We will be Git experts, soon.");
     }
+    
+    public void manageRockets() {
+    // TODO implement
+}
 
     public static void startTheRocket(){
       System.out.println("3, 2, 1 Start");
